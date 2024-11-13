@@ -1,5 +1,5 @@
 // Countdown Timer
-const countdownDate = new Date("YYYY-MM-DDT00:00:00").getTime(); // Replace with Vikas's birthday date and time
+const countdownDate = new Date("2006-01-26T00:00:00").getTime(); // Replace with Vikas's birthday date and time
 
 function updateCountdown() {
     const now = new Date().getTime();
